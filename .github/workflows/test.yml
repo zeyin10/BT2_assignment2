@@ -9,7 +9,7 @@ on:
 
 jobs:
   check:
-    name: Foundry project
+    name: foundry
     runs-on: ubuntu-latest
     permissions:
       contents: read
